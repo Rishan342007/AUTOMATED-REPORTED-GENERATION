@@ -39,7 +39,7 @@ In summary, this project reflects Rishan’s ability to apply Python for real-wo
 
 *OUTPUT*:
 
-
+![Image](https://github.com/user-attachments/assets/4daae31e-693c-4bf2-8591-e271cb52c9c3)
 
 
 
